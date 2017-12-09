@@ -851,10 +851,13 @@ div{
   width: 150px;
 }
 .rsltmap{
+  height: 500px;
   padding-bottom: 15px;
   padding-top: 15px;
+  text-align: none;
   width: 100%;
 }
+
 .rsltttl{
   color: #e97600;
   float: left;
